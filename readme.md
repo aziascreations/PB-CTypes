@@ -5,9 +5,9 @@ The goal of this include is to make the binding process for libraries easier to 
 
 ## Data types
 ● `char` -> `b`<br>
-● `uchar`` -> ``a``<br>
-● `int8_t`` -> ``char``<br>
-● `uint8_t`` -> ``uchar``
+● `uchar`` -> `a`<br>
+● `int8_t`` -> `char`<br>
+● `uint8_t`` -> `uchar`
 
 ● `short` -> `w`<br>
 ● `ushort` -> `u`<br>
